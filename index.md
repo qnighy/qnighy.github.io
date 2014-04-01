@@ -8,26 +8,26 @@ title: 自己紹介
 
 - 名前: 原 将己 (Masaki Hara)
 - 誕生日: 1993/05/31
-- 所属: 東京大学 前期課程 教養学部 _
+- 所属: 東京大学 理学部 [情報科学科](http://www.is.s.u-tokyo.ac.jp/)
 
 基本データ その2
 ------
 
 - ハンドルネーム: qnighy
-- Twitter: [@qnighy](https://twitter.com/qnighy/)
-- Github: [qnighy](https://github.com/qnighy)
-- Blog: [簡潔で覚えやすいタイトルを3秒で思いつく程度の能力](http://d.hatena.ne.jp/qnighy/)
+- [Twitter: @qnighy](https://twitter.com/qnighy/)
+- [Github: qnighy](https://github.com/qnighy)
+- [Blog: 簡潔なQ](http://qnighy.hatenablog.com/)
+- 発表スライド: [Slideshare](http://www.slideshare.net/qnighy) / [Speakerdeck](https://speakerdeck.com/qnighy)
 
 基本データ その3
 ------
 
-- OS: Windows7の上にXubuntu (VirtualBox)
-- エディタ: vimとEmacsを使い分け
+- OS: Windows8の上にXubuntu (VMware)
+- エディタ: vim
 - 好きなプログラミング言語: Coq
 - よく使うプログラミング言語: Ruby, C++
 - 好きなソートアルゴリズム: heap sortとbitonic sort
-- 好きなジャンル: 百合モノ・女装モノ・TSF
-- 最近読んでる漫画: よつばと！・咲 _
+- 好きなジャンル: TSF
 
 主な経歴
 ------
@@ -42,7 +42,8 @@ title: 自己紹介
 主な資格
 ------
 
-<img src="muteki.png" width="347" height="88" alt="死角？特にありません、無敵です">
+- 普通自動車免許第一種(AT限定)
+- TOEIC公開テスト スコア765点取得
 
 経歴(時系列)
 ------
@@ -65,4 +66,5 @@ title: 自己紹介
 - 2011/03 [第10回 日本情報オリンピック](http://www.ioi-jp.org/joi/2010/index.html) 予選Aランク ・ 本選Aランク(銀賞) ・ 代表選抜合宿参加 ・ 日本代表
 - 2011/07 [第23回 国際情報オリンピック タイ大会(IOI2011)](http://www.ioi2011.or.th/) 銀メダル(302人中28位タイ)
 - 2012/04 [東京大学](http://www.u-tokyo.ac.jp/index_j.html) 入学(理科一類)
+- 2014/04 東京大学 理学部 [情報科学科](http://www.is.s.u-tokyo.ac.jp/) 進学
 
